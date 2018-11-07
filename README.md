@@ -12,7 +12,7 @@
 
 + 2017
 
-	+ [개발] 티씨피스쿨코리아 (2017.11月~2018.2月)  
+	+ [] 티씨피스쿨코리아 (2017.11月~2018.2月)  
 		+ 온라인 교재 검수 (http://tcpschool.com/) - CSS, JavaScript, JQuery 
 		+ 인터넷 강의 촬영 (http://codingsam.com/) - CSS, JQuery 
 
