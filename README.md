@@ -16,13 +16,17 @@
 		+ 온라인 교재 검수 (http://tcpschool.com/) - CSS, JavaScript, JQuery 
 		+ 인터넷 강의 촬영 (http://codingsam.com/) - CSS, JQuery 
 
-	+ [개발] 미래교육혁신원 교수학습개발센터 스터디그룹 Best Practice 공모전 - 장려상 (2017.9月~2018.12月)
-		+ 로또 번호 예측 사이트
+	+ [개발] 로또 번호 예측 사이트 (2017.10月~2018.12月)  
+		+ 미래교육혁신원 교수학습개발센터 스터디그룹 Best Practice 공모전 - 장려상 
+		
+	+ [개발] 토익 종합 어플리케이션 - 토익왕 (2017.10月~2018.12月)
+		+ url in here
 
 	+ [교육] DKU 소프트파워 기반 글로벌 엔지니어 양성 프로그램 (2018.7月)
 		+ 빅데이터 활용 전공 데이터 분석
 
-	+ [개발] 미래교육혁신원 교수학습개발센터 스터디그룹 Best Practice 공모전 - 장려상 (2017.3月~2018.6月)
+	+ [개발] 블루투스 통신을 이용한 원격 제어 카메라 애플리케이션 (2017.3月~2018.6月)
+		+ 미래교육혁신원 교수학습개발센터 스터디그룹 Best Practice 공모전 - 장려상 
 		+ 블루투스 통신을 이용한 원격 제어 카메라 애플리케이션 
 
 + 2016
@@ -34,7 +38,7 @@
 
 + 2014
 
-	+ Department Of Software Science Dankook University
+	+ Department Of Software Science **Dankook Univ**
 
 + 2013
 	
