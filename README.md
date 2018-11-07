@@ -13,5 +13,4 @@
     This is a code block. 
 
  
-
-Link: https://google.com "Go google"
+https://google.com 
