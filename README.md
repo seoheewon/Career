@@ -39,10 +39,11 @@
 + 2015
 
 	+ [경력] 정보 보안 동아리 Aegis 가입 (2015.9月)
+	+ SPC행복한재단 장학금 수령 - 대학등록금의 50%
 
 + 2014
 
-	+ Department Of Software Science **Dankook Univ**
+	+ Department Of Software Science **Dankook Univ** (2014.3月)
 
 + 2013
 	
